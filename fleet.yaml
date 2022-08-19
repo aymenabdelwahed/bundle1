@@ -1,0 +1,5 @@
+defaultNamespace: bundle-lab
+helm:
+  Chart: ./
+  values:
+    applicationName: "bundle1"
