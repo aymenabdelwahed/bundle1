@@ -1,4 +1,4 @@
-defaultNamespace: bundle-lab
+defaultNamespace: bundlelab
 helm:
   Chart: ./
   values:
